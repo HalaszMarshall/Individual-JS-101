@@ -1,0 +1,65 @@
+
+#button1{
+    text-align: center;
+}
+#changeMeColor1{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    margin: 20px auto;
+    background: red;
+}
+#button2{
+    text-align: center;
+}
+#changeMeColor2{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    margin: 20px auto;
+    background: red;
+}
+#button3{
+    text-align: center;
+}
+#changeMeColor3{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    margin: 20px auto;
+    background: red;
+}
+#button4{
+    text-align: center;
+}
+#changeMeColor4{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    margin: 20px auto;
+    background: red;
+}
+#txtbutton{
+    text-align: center;
+}
+#changeMeFonts{
+    font-family: 'Courier New';
+    text-align: center;
+    padding: 20px;
+}
+#buttonChangeText{
+    text-align: center;
+}
+#pChange{
+    text-align: center;
+}
+#buttonChangeText2{
+    text-align: center;
+}
+#pChange2{
+    text-align: center;
+}
+#pChangeBtn{
+    margin: 0;
+    padding: 0;
+}
